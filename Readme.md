@@ -7,7 +7,7 @@
 **Personal Backup** is an advanced file backup program.
 
 The program allows you to add files to the backup using user-defined filters, works with the Windows Task Scheduler, allows you to create any number of backup projects (tasks), supports the creation of incremental and differential backups, saving copies to network and FTP drives, supports Volume Shadow Copies, compression, encryption and much, much more.  
-You can find more information on the program's [home page](http://personal-backup.rathlev-home.de/index-e.html), and in detailed[documentation](http://personal-backup.rathlev-home.de/help-en/pb-inhalt.html).
+You can find more information on the program's [home page](http://personal-backup.rathlev-home.de/index-e.html), and in detailed [documentation](http://personal-backup.rathlev-home.de/help-en/pb-inhalt.html).
 
 The author of the program is Dr. Jürgen Rathlev. On his website you can also find a lot of other interesting programs and resources for Delphi / Pascal programmers.
 
