@@ -1,6 +1,6 @@
 # Polish translation for Personal Backup
 
-<!-- [Polish version / Polska wersja](Readme_PL.md) -->
+[Polish version / Polska wersja](Readme_PL.md)
 
 ## Overview
 
@@ -22,7 +22,6 @@ Binary (MO files): http://www.pazera-software.com/misc/personal-backup-pl/Person
 
 ## Installation
 
-
 - Download this repository and compile all `.po` files to `.mo` with some PO editor/compiler (personally, I usually use [Poedit](https://github.com/vslavik/poedit)).
 - Close Personal Backup program if it is running.
 - Go to the folder you selected when installing Personal Backup. The default folder on Windows 32-bit is `C:\Program Files\Personal Backup 5\`, 64-bit: `C:\Program Files (x86)\Personal Backup 5\`.
@@ -35,6 +34,7 @@ Binary (MO files): http://www.pazera-software.com/misc/personal-backup-pl/Person
 ![Screenshot](http://www.pazera-software.com/misc/personal-backup-pl/personal-backup-pl-01.png)
 
 ## Useful links
+
 - Personal Backup home page: http://personal-backup.rathlev-home.de/index-e.html
 - Online help: http://personal-backup.rathlev-home.de/help-en/pb-inhalt.html
 - Useful information for program translators: http://personal-backup.rathlev-home.de/translate.html
