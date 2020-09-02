@@ -18,7 +18,7 @@ The task was not easy at all! There are several additional programs installed wi
 ## Download
 
 Source (PO files): https://github.com/jackdp/Personal-Backup-Polish  
-Binary (MO files): http://www.pazera-software.com/misc/personal-backup-pl/Personal_Backup_PL.zip
+Binary (MO files): https://www.pazera-software.com/files/misc/Personal_Backup_PL.zip
 
 ## Installation
 
@@ -31,7 +31,7 @@ Binary (MO files): http://www.pazera-software.com/misc/personal-backup-pl/Person
 
 ## Screenshot
 
-![Screenshot](http://www.pazera-software.com/misc/personal-backup-pl/personal-backup-pl-01.png)
+![Screenshot](https://www.pazera-software.com/files/misc/personal-backup-pl-01.png)
 
 ## Useful links
 
@@ -40,4 +40,3 @@ Binary (MO files): http://www.pazera-software.com/misc/personal-backup-pl/Person
 - Useful information for program translators: http://personal-backup.rathlev-home.de/translate.html
 - A large collections of Delphi units: http://www.rathlev-home.de/sources/delphi.html
 - Polish translation on the GitHub: https://github.com/jackdp/Personal-Backup-Polish
-- Compiled MO files are available at http://www.pazera-software.com/misc/personal-backup-pl/

@@ -18,7 +18,7 @@ Zadanie wcale nie było proste! Wraz z programem Personal Backup instalowanych j
 ## Pliki
 
 Pliki źródłowe (PO): https://github.com/jackdp/Personal-Backup-Polish  
-Pliki skompilowane (MO): http://www.pazera-software.com/misc/personal-backup-pl/Personal_Backup_PL.zip
+Pliki skompilowane (MO): https://www.pazera-software.com/files/misc/Personal_Backup_PL.zip
 
 ## Instalacja
 
@@ -31,7 +31,7 @@ Pliki skompilowane (MO): http://www.pazera-software.com/misc/personal-backup-pl/
 
 ## Zrzut ekranu
 
-![Screenshot](http://www.pazera-software.com/misc/personal-backup-pl/personal-backup-pl-01.png)
+![Screenshot](https://www.pazera-software.com/files/misc/personal-backup-pl-01.png)
 
 ## Przydatne linki
 
